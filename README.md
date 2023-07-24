@@ -1,8 +1,6 @@
 # Bike Sharing Machine Learning Assignment
 > This assignment is a programming assignment wherein i have to build a multiple linear regression model for the prediction of demand for shared bikes.
 
-![image](./images/image.jpg)
-
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Business Goal](#business-goal)
