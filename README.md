@@ -1,13 +1,13 @@
 # Bike Sharing Machine Learning Assignment
 > This assignment is a programming assignment wherein i have to build a multiple linear regression model for the prediction of demand for shared bikes.
 
-## Table of Contents
+## Table of Contents:
 * [Problem Statement](#problem-statement)
 * [Business Goal](#business-goal)
 * [Dataset and Data Dictionary](#dataset-and-data-dictionary)
 * [Assignment Information](#assignment-information)
 
-## Problem Statement
+## Problem Statement:
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 
@@ -27,12 +27,12 @@
 ## Business Goal:
 > We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-## Dataset and Data Dictionary
+## Dataset and Data Dictionary:
 The following files are present inside datasets folder:
 - day.csv (dataset)
 - Readme.txt (data dictionary)
 
-## Assignment Information
+## Assignment Information:
 > Assignment has been carried out in the following steps:
 - Reading & Understanding Dataset
 - Data Vizualization
@@ -43,9 +43,9 @@ The following files are present inside datasets folder:
 - Model Evaluation
 - Conclusion
 
-## Contact (GitHub)
+## Contact (GitHub):
 Created by: 
 - [Chinmay Sahu](https://github.com/ChinmaySahu10) 
 
-## Connect with me on LinkedIn:-
+## Connect with me on LinkedIn:
 - [Chinmay Sahu](https://www.linkedin.com/in/chinmaysahu7/)
